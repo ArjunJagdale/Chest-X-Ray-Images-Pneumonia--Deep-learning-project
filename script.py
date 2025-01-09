@@ -1,4 +1,4 @@
-# Dataset link - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
+# Dataset link - https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import tensorflow as tf
 
